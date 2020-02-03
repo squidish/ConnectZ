@@ -6,6 +6,7 @@ Represents games of Connect 4 generalised to an arbitarily sized frame and win c
 # To Run
 
 Python version 3 required. To run use `python3 connectz.py tests/Input.txt >> Results.txt` 
+
 Diagnostics will be output to Diagnostics.txt
 
 # Input format
