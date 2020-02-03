@@ -7,7 +7,7 @@ Represents games of Connect 4 generalised to an arbitarily sized frame and win c
 
 Python version 3 required. To run use `python3 connectz.py tests/Input.txt >> Results.txt` 
 
-Diagnostics will be output to Diagnostics.txt
+Diagnostics will be output to Diagnostics.txt.
 
 # Input format
 
@@ -19,11 +19,11 @@ X Y Z
 
 X = Width of frame 
 Y = Length of frame 
-Z = Minimum number of counters in a straight needed to win the game 
+Z = Minimum number of counters in a straight needed to win the game. 
 
 The numbers below X,Y,Z represent the columns where a counter is inserted by alternating players, assuming that player 1 goes first. 
 
-See the contents of the directory ./test for examples and tests. Run the bash script ./runtests.sh
+See the contents of the directory ./test for examples and tests. Run the bash `script ./runtests.sh`.
 
 # Board Representation
 
