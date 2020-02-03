@@ -1,0 +1,13 @@
+Test Results are
+Game resulted in a draw 0
+A victory for player 1   
+A victory for player 2   
+Error 3:Game Incomplete
+Error 4:Illegal continue
+Error 5:Illegal Row
+Error 6:Illegal Column
+Error 7: Illegal game
+Error 8:Invalid File
+Error 9:File Error
+A victory for player 2   
+A victory for player 1   
